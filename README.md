@@ -16,3 +16,6 @@ Utilização
  *PESQUISANDO A MUSICA
  1 - identificar o ID do artista no Genius
  2 - mandar uma chamda GET para a URL http://localhost:8000/topten/id (substituir id pelo id do artista escolido. EX: 16775)
+ 
+ API Genius documentation:
+ https://docs.genius.com/#/getting-started-h1
